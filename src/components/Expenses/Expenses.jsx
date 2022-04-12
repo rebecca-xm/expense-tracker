@@ -1,5 +1,5 @@
 import ExpenseItem from "./ExpenseItem";
-import Card from "./Card";
+import Card from "../UI/Card";
 import styles from "./Expenses.module.scss";
 
 const Expenses = ({ expenses }) => {
